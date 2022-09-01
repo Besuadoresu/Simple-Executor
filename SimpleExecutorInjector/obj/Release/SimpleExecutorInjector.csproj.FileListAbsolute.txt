@@ -1,0 +1,20 @@
+C:\Users\MrAdmin\Desktop\General Exploiting\SimpleExecutor\SimpleExecutorInjector\bin\Release\SimpleExecutorInjector.exe.config
+C:\Users\MrAdmin\Desktop\General Exploiting\SimpleExecutor\SimpleExecutorInjector\bin\Release\SimpleExecutorInjector.exe
+C:\Users\MrAdmin\Desktop\General Exploiting\SimpleExecutor\SimpleExecutorInjector\bin\Release\SimpleExecutorInjector.pdb
+C:\Users\MrAdmin\Desktop\General Exploiting\SimpleExecutor\SimpleExecutorInjector\obj\Release\SimpleExecutorInjector.csproj.AssemblyReference.cache
+C:\Users\MrAdmin\Desktop\General Exploiting\SimpleExecutor\SimpleExecutorInjector\obj\Release\SimpleExecutorInjector.csproj.SuggestedBindingRedirects.cache
+C:\Users\MrAdmin\Desktop\General Exploiting\SimpleExecutor\SimpleExecutorInjector\obj\Release\SimpleExecutorInjector.Properties.Resources.resources
+C:\Users\MrAdmin\Desktop\General Exploiting\SimpleExecutor\SimpleExecutorInjector\obj\Release\SimpleExecutorInjector.csproj.GenerateResource.cache
+C:\Users\MrAdmin\Desktop\General Exploiting\SimpleExecutor\SimpleExecutorInjector\obj\Release\SimpleExecutorInjector.csproj.CoreCompileInputs.cache
+C:\Users\MrAdmin\Desktop\General Exploiting\SimpleExecutor\SimpleExecutorInjector\obj\Release\SimpleExecutorInjector.Form1.resources
+C:\Users\MrAdmin\Desktop\General Exploiting\SimpleExecutor\SimpleExecutorInjector\bin\Release\FastColoredTextBox.dll
+C:\Users\MrAdmin\Desktop\General Exploiting\SimpleExecutor\SimpleExecutorInjector\bin\Release\FastColoredTextBox.xml
+C:\Users\MrAdmin\Desktop\General Exploiting\SimpleExecutor\SimpleExecutorInjector\obj\Release\SimpleExecutorInjector.csproj.CopyComplete
+C:\Users\MrAdmin\Desktop\General Exploiting\SimpleExecutor\Build\Simple Executor.exe.config
+C:\Users\MrAdmin\Desktop\General Exploiting\SimpleExecutor\Build\Simple Executor.exe
+C:\Users\MrAdmin\Desktop\General Exploiting\SimpleExecutor\SimpleExecutorInjector\obj\Release\Simple Executor.exe
+C:\Users\MrAdmin\Desktop\General Exploiting\SimpleExecutor\Build\Simple Executor.pdb
+C:\Users\MrAdmin\Desktop\General Exploiting\SimpleExecutor\SimpleExecutorInjector\obj\Release\Simple Executor.pdb
+C:\Users\MrAdmin\Desktop\General Exploiting\SimpleExecutor\DebugDir\Simple Executor.exe.config
+C:\Users\MrAdmin\Desktop\General Exploiting\SimpleExecutor\DebugDir\Simple Executor.exe
+C:\Users\MrAdmin\Desktop\General Exploiting\SimpleExecutor\DebugDir\Simple Executor.pdb
