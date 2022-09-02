@@ -1,6 +1,7 @@
 #include "executor_module.hpp"
 #include "../roblox/custom_functions/custom_functions.hpp"
 #include "../execution/execution.hpp"
+#include "../luau/lualib.h"
 
 //#define USE_ROBLOX_LUAU_LOAD
 
@@ -100,6 +101,8 @@ void executor::module::executor_module_t::set_state()
     printf("script_context: 0x%X\n", script_context);
 
     state = reinterpret_cast<lua_State*>(roblox::offsets::lua_state::get_lua_state(script_context));
+    luaL_sandboxthread(state); // is this redundant?
+    state->userdata->context_level = 8; // is this redundant?
 
     printf("lua_state: 0x%p\n", state);
 }

@@ -18,3 +18,10 @@ C:\Users\MrAdmin\Desktop\General Exploiting\SimpleExecutor\SimpleExecutorInjecto
 C:\Users\MrAdmin\Desktop\General Exploiting\SimpleExecutor\DebugDir\Simple Executor.exe.config
 C:\Users\MrAdmin\Desktop\General Exploiting\SimpleExecutor\DebugDir\Simple Executor.exe
 C:\Users\MrAdmin\Desktop\General Exploiting\SimpleExecutor\DebugDir\Simple Executor.pdb
+C:\Users\MrAdmin\Desktop\General Exploiting\Simple Executor git\Simple-Executor\SimpleExecutorInjector\obj\Release\SimpleExecutorInjector.csproj.AssemblyReference.cache
+C:\Users\MrAdmin\Desktop\General Exploiting\Simple Executor git\Simple-Executor\SimpleExecutorInjector\obj\Release\SimpleExecutorInjector.csproj.SuggestedBindingRedirects.cache
+C:\Users\MrAdmin\Desktop\General Exploiting\Simple Executor git\Simple-Executor\SimpleExecutorInjector\obj\Release\SimpleExecutorInjector.Form1.resources
+C:\Users\MrAdmin\Desktop\General Exploiting\Simple Executor git\Simple-Executor\SimpleExecutorInjector\obj\Release\SimpleExecutorInjector.Properties.Resources.resources
+C:\Users\MrAdmin\Desktop\General Exploiting\Simple Executor git\Simple-Executor\SimpleExecutorInjector\obj\Release\SimpleExecutorInjector.csproj.GenerateResource.cache
+C:\Users\MrAdmin\Desktop\General Exploiting\Simple Executor git\Simple-Executor\SimpleExecutorInjector\obj\Release\SimpleExecutorInjector.csproj.CoreCompileInputs.cache
+C:\Users\MrAdmin\Desktop\General Exploiting\Simple Executor git\Simple-Executor\SimpleExecutorInjector\obj\Release\Simple Executor.pdb
